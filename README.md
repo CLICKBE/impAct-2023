@@ -20,7 +20,7 @@ Trois projets ont été réalisés pendant le hackathon :
 - [Utilisation de controlNet](https://colab.research.google.com/drive/1S-iK_cf84kz1Mdxrb4ojGrVpgZtdW420#scrollTo=zJdvY4mcp-90), Mohamed Benkedadra
 - [Préprocessing de données médicales avec la librairie MONAI](https://github.com/amine0110/impact), Mohamed El Amine Mokthari
 - [Introduction à la compression de réseaux de neurones](https://nathanhubens.github.io/fasterai/quickstart.html), Nathan Hubens
-- [Introduction à l'explicabilité des réseaux de neurones](https://github.com/LucaLaFisca/Human-Centered-xAI), uca La Fisca
+- [Introduction à l'explicabilité des réseaux de neurones](https://github.com/LucaLaFisca/Human-Centered-xAI), Luca La Fisca
 
 
 ## Legal Notices
