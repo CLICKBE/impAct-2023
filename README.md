@@ -13,7 +13,7 @@ Trois projets ont été réalisés pendant le hackathon :
 
 - [Détection de chute](https://github.com/CLICKBE/falling_detection)
 - [One Life... Or Not](https://github.com/CLICKBE/OLON_durability_scoring_system)
-- Ecoute ma danse
+- [Ecoute ma danse](https://github.com/CLICKBE/EcouteMaDanse)
 
 ## Tuto : 
 
